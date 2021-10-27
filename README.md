@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/1f50d.svg" width="65" title="logo">
+  <img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/1f50d.svg" width="60" title="logo">
 </p>
 
 # Auto Text Completion Tool
