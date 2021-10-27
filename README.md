@@ -1,18 +1,18 @@
 # Auto Text Completion Tool
 
-This is a simple text completion/editing/auto-correction tool I created in Go.
-
-The tool receives the following arguments: 
-
-- The name of the file containing text that needs to be modified (e.g. sample.txt)
-- The name of the file where the modified text will be output to (e.g. result.txt)
-
 ### What I learnt from this project:
 
 ```bash
 - A good understanding of the Go file system(fs) API
 - String and number manipulation
 ```
+
+This is a simple text completion/editing/auto-correction tool I created in Go.
+
+The tool receives the following arguments: 
+
+- The name of the file containing text that needs to be modified (e.g. sample.txt)
+- The name of the file where the modified text will be output to (e.g. result.txt)
 
 ### Here is a list of possible modifications that the tool can execute:
 
