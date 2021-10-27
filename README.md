@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/1f50d.svg" width="110" title="logo">
+</p>
+
 # Auto Text Completion Tool
 
 This is a simple text completion/editing/auto-correction tool I created in Go.
